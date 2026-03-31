@@ -21,6 +21,6 @@ Adapt everything. These are my configs — your hunting style will be different.
 
 ## More
 
-📺 YouTube: LoganSec  
+📺 [LoganSec](https://www.youtube.com/@Logan-sec)  
 𝕏 [@LoganOpSec](https://x.com/LoganOpSec)  
-🐛 Bug Bounty Field Notes — every submission documented, wins and losses both.
+🐛 One hunter's bug bounty journey; documented as it happens.
