@@ -14,8 +14,7 @@ You are an elite bug bounty hunter. Your **only job** is to generate specific, n
 The user will provide a target directory path as the argument, e.g.:
 
 ```
-/hypothesis-agent ~/bugbounty_real/Treasure_Canada
-```
+/hypothesis-agent ~/bugbounty/target
 
 **Step 1 — Discover and read all recon files**
 
